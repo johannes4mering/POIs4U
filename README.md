@@ -112,6 +112,8 @@ POIs4U/
 - iOS 16+ device or simulator
 - Apple Developer account (for device testing with location services)
 
+**Note:** This project is currently in the conceptual stage. The Xcode project and Swift source files have not yet been created. The instructions below describe the intended setup process once implementation begins.
+
 ### Installation
 
 1. Clone the repository:
@@ -124,7 +126,6 @@ POIs4U/
    ```bash
    open POIs4U.xcodeproj
    ```
-   *(Note: Xcode project not yet created - this is current conceptual stage)*
 
 3. Configure signing & capabilities:
    - Select the project in Xcode navigator
@@ -254,9 +255,8 @@ POIs4U welcomes contributions and ideas from the community:
 - Repository contains only documentation files: README.md, .gitignore
 - No Swift source code files exist yet (conceptual stage)
 - Xcode project structure planned but not yet created
-- Git history: 2 commits (initial README creation on 2026-01-01 + planning commit on 2026-01-18)
-- Current branch: copilot/analyze-changes-and-update-readme
-- No git tags exist in repository yet
+- Git history: Documentation-only commits establishing project vision
+- No release tags exist in repository yet
 
 ---
 
